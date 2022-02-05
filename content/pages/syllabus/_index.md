@@ -75,13 +75,230 @@ Two lectures are given during each of the first four days of the program. The fi
 
 ### [Acknowledgements]({{< baseurl >}}/pages/syllabus/acknowledgements)
 
-| LEC # | TOPICS | CASE STUDIES | EXERCISES |
-| --- | --- | --- | --- |
-| 1 | **What is evaluation?** {{< br >}}{{< br >}} *   Needs assessment{{< br >}}*   Process evaluation{{< br >}}*   Impact evaluation{{< br >}}*   Cost-benefit analysis {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | **Why randomize?** {{< br >}}{{< br >}} *   Different types of impact evaluation{{< br >}}*   Counterfactual{{< br >}}*   Selection bias{{< br >}}*   Internal / external validity {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Get out the Vote: Do phone calls to encourage voting work? Why Randomize? {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1 - Sampling Distribution with randomization (Web) {{< br >}}{{< br >}} 2 - Comparing different evaluation methods (MS Excel®) {{< br >}}{{< br >}}  |
-| 3 | **How to Randomize I** {{< br >}}{{< br >}} *   Methods of randomization: Lottery, Phase in, Rotation, encouragement{{< br >}}*   Multiple treatments{{< br >}}*   Gathering support {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Remedial Education in India: Evaluating the Balsakhi program; Incorporating random assignment into the program {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | **How to Randomize II** {{< br >}}{{< br >}} *   Unit of randomization{{< br >}}*   Cross-cutting treatments{{< br >}}*   Stratification{{< br >}}*   Mechanics {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} 3 - The mechanics of simple random assignment using MS Excel® {{< br >}}{{< br >}}  |
-| 5 | **Measurement and Outcomes** {{< br >}}{{< br >}} *   Key hypotheses{{< br >}}*   Primary and intermediate outcomes{{< br >}}*   Interpreting multiple outcomes{{< br >}}*   Theory of change Model{{< br >}}*   Questionnaire design{{< br >}}*   Data collection/entry {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Women as Policy Makers: Measuring the effects of political reservations; Thinking about measurement and outcomes {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | **Sample Size and Power Calculations** {{< br >}}{{< br >}} *   Estimation{{< br >}}*   Hypothesis testing{{< br >}}*   Power: significance level, variance of outcome, effect size{{< br >}}*   Clustered design {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} 4 - Determining sample size, given budget constraints (OD software and MS Excel®) {{< br >}}{{< br >}}  |
-| 7 | **Managing threats to evaluation and data analysis** {{< br >}}{{< br >}} *   Attrition{{< br >}}*   Externalities (spillovers){{< br >}}*   Partial compliance and selection bias {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Deworming in Kenya: Managing threats to experimental integrity {{< br >}}{{< br >}}  | &nbsp; |
-| 8 | **Analyzing Data** {{< br >}}{{< br >}} *   Intention to treat (ITT) and Treatment on treated (ToT){{< br >}}*   Choice of outcomes and covariates{{< br >}}*   External validity{{< br >}}*   Cost-effectiveness {{< br >}}{{< br >}}  | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+CASE STUDIES
+{{< thclose >}}
+{{< thopen >}}
+EXERCISES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+**What is evaluation?**
+
+*   Needs assessment
+*   Process evaluation
+*   Impact evaluation
+*   Cost-benefit analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+**Why randomize?**
+
+*   Different types of impact evaluation
+*   Counterfactual
+*   Selection bias
+*   Internal / external validity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Get out the Vote: Do phone calls to encourage voting work? Why Randomize?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1 - Sampling Distribution with randomization (Web)
+
+2 - Comparing different evaluation methods (MS Excel®)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+**How to Randomize I**
+
+*   Methods of randomization: Lottery, Phase in, Rotation, encouragement
+*   Multiple treatments
+*   Gathering support
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Remedial Education in India: Evaluating the Balsakhi program; Incorporating random assignment into the program
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+**How to Randomize II**
+
+*   Unit of randomization
+*   Cross-cutting treatments
+*   Stratification
+*   Mechanics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3 - The mechanics of simple random assignment using MS Excel®
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+**Measurement and Outcomes**
+
+*   Key hypotheses
+*   Primary and intermediate outcomes
+*   Interpreting multiple outcomes
+*   Theory of change Model
+*   Questionnaire design
+*   Data collection/entry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Women as Policy Makers: Measuring the effects of political reservations; Thinking about measurement and outcomes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+**Sample Size and Power Calculations**
+
+*   Estimation
+*   Hypothesis testing
+*   Power: significance level, variance of outcome, effect size
+*   Clustered design
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+4 - Determining sample size, given budget constraints (OD software and MS Excel®)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+**Managing threats to evaluation and data analysis**
+
+*   Attrition
+*   Externalities (spillovers)
+*   Partial compliance and selection bias
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Deworming in Kenya: Managing threats to experimental integrity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+**Analyzing Data**
+
+*   Intention to treat (ITT) and Treatment on treated (ToT)
+*   Choice of outcomes and covariates
+*   External validity
+*   Cost-effectiveness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
